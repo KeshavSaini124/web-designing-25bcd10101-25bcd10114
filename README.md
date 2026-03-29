@@ -72,7 +72,7 @@ This project is created as a basic web designing project to demonstrate how a di
 
 ## 👨‍💻 Author
 
-Developed by: *Your Name*
+Developed by: *Keshav & Garvit*
 
 ---
 
