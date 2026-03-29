@@ -1,4 +1,4 @@
-![Farmo Banner](assets/hero.png)
+![Farmo Banner](assets/hero.jpg)
 # 🌾 Farmo – Farmers to Consumer Marketplace
 ## web-designing-25bcd10101-25bcd10114
 
